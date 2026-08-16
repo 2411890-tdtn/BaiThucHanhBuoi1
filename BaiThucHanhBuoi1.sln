@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.9.12105.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiThucHanhBuoi1", "BaiThucHanhBuoi1\BaiThucHanhBuoi1.csproj", "{D3729F5E-9FE5-4490-B814-B1C6B71E3AD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2", "Bai2\Bai2.csproj", "{004D7554-8012-4EDB-8E29-9B2509D780A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapThietKeForm", "BaiTapThietKeForm\BaiTapThietKeForm.csproj", "{6E5197DA-DAA9-4F5F-AA2A-30C2F6A2C3E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapWindowForm_1", "BaiTapWindowForm\BaiTapWindowForm_1.csproj", "{DCCE1503-5DB8-4BD5-A0E2-7179AFA0F7CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapWindowForm_2", "BaiTapWindowForm_2\BaiTapWindowForm_2.csproj", "{166015A3-F70F-4D5C-86C3-C11312E797FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapWindowForm_3", "BaiTapWindowForm_3\BaiTapWindowForm_3.csproj", "{4D8250CC-0DD8-40E3-A108-AE79A855BEBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapWindowForm_4", "BaiTapWindowForm_4\BaiTapWindowForm_4.csproj", "{4E7FA3A8-C0CB-4CF8-83AE-42C821F95380}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3729F5E-9FE5-4490-B814-B1C6B71E3AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3729F5E-9FE5-4490-B814-B1C6B71E3AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3729F5E-9FE5-4490-B814-B1C6B71E3AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3729F5E-9FE5-4490-B814-B1C6B71E3AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{004D7554-8012-4EDB-8E29-9B2509D780A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004D7554-8012-4EDB-8E29-9B2509D780A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004D7554-8012-4EDB-8E29-9B2509D780A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004D7554-8012-4EDB-8E29-9B2509D780A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E5197DA-DAA9-4F5F-AA2A-30C2F6A2C3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E5197DA-DAA9-4F5F-AA2A-30C2F6A2C3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E5197DA-DAA9-4F5F-AA2A-30C2F6A2C3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E5197DA-DAA9-4F5F-AA2A-30C2F6A2C3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCCE1503-5DB8-4BD5-A0E2-7179AFA0F7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCE1503-5DB8-4BD5-A0E2-7179AFA0F7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCE1503-5DB8-4BD5-A0E2-7179AFA0F7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCE1503-5DB8-4BD5-A0E2-7179AFA0F7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{166015A3-F70F-4D5C-86C3-C11312E797FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166015A3-F70F-4D5C-86C3-C11312E797FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166015A3-F70F-4D5C-86C3-C11312E797FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166015A3-F70F-4D5C-86C3-C11312E797FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D8250CC-0DD8-40E3-A108-AE79A855BEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8250CC-0DD8-40E3-A108-AE79A855BEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8250CC-0DD8-40E3-A108-AE79A855BEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8250CC-0DD8-40E3-A108-AE79A855BEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E7FA3A8-C0CB-4CF8-83AE-42C821F95380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7FA3A8-C0CB-4CF8-83AE-42C821F95380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7FA3A8-C0CB-4CF8-83AE-42C821F95380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7FA3A8-C0CB-4CF8-83AE-42C821F95380}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40FB84AE-CBF3-46F9-89EE-8B0E8E0B0075}
+	EndGlobalSection
+EndGlobal
